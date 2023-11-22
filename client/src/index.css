@@ -4,7 +4,7 @@ body {
   font-family: 'Montserrat', sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: azure;
+  background-color: rgb(29, 65, 38);
 }
 body , html{
   overflow-x: hidden !important;
@@ -14,7 +14,7 @@ code {
     monospace;
 }
 .bs1{
-  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  box-shadow: rgba(30, 34, 31, 0.12) 0px 2px 4px 0px, rgba(18, 19, 18, 0.12) 0px 2px 16px 0px;
 }
 .ant-row{
   margin: 0 20 !important;
@@ -28,7 +28,7 @@ code {
 h1{
   font-size: 30px;
   font-weight: bold;
-  color : orangered;
+  color : rgb(0, 255, 102);
 }
 p{
   margin: 5px !important;
@@ -38,8 +38,8 @@ p{
 .btn1{
   box-shadow: none !important;
   background-color : white !important;
-  color: orangered !important;
-  border: 1px solid orangered !important;
+  color: rgb(0, 255, 102) !important;
+  border: 1px solid rgb(0, 255, 102) !important;
   padding: 5px 15px !important;
   outline: none !important;
 }
@@ -56,8 +56,8 @@ button{
 .header .ant-btn{
   box-shadow: none !important;
   background-color : white !important;
-  color: orangered !important;
-  border: 1px solid orangered !important;
+  color: rgb(0, 255, 102) !important;
+  border: 1px solid rgb(0, 255, 102) !important;
   padding: 5px 15px !important;
   outline: none !important;
 }
@@ -66,7 +66,7 @@ button{
   
 }
 .footer{
-  background-color: aliceblue;
+  background-color: rgb(81, 177, 87);
   padding: 10px;
 }
 
@@ -144,5 +144,5 @@ svg{
   width : 20px !important;
 }
 a{
-  color: orangered !important;
+  color: rgb(0, 255, 102) !important;
 }
