@@ -6,7 +6,8 @@ Welcome to CarDhundo, a full-stack car rental website that allows users to easil
 
 ## Deployment Link
 
-You can access the deployed website at : 
+You can access the deployed website at : frontend(https://cardhundo1.onrender.com)
+backend(https://cardhundo.onrender.com)
 
 ## Features
 
