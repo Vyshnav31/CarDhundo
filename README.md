@@ -1,6 +1,6 @@
 
 
-# CarDhundo - Car Rental Website
+# 🚗CarDhundo - Car Rental Website
 
 Welcome to CarDhundo, a full-stack car rental website that allows users to easily rent cars with or without drivers. This project aims to provide a seamless car rental experience with features such as login/signup, car booking, date filtering for car availability, and payment integration with Stripe.
 
@@ -9,7 +9,7 @@ Welcome to CarDhundo, a full-stack car rental website that allows users to easil
 You can access the deployed website at : frontend(https://cardhundo1.onrender.com)
 backend(https://cardhundo.onrender.com)
 
-## Features
+##🚀 Features
 
 - User Authentication: Users can create accounts, log in, and manage their profiles.
 - Car Booking: Users can browse available cars, select their desired car, and book it for a specific date.
@@ -22,21 +22,21 @@ backend(https://cardhundo.onrender.com)
 ![WhatsApp Image 2023-11-23 at 19 46 10_aeccb728](https://github.com/Vyshnav31/CarDhundo/assets/91794397/d4653a98-9192-4587-820d-82892dafa6e5)
 ![WhatsApp Image 2023-11-23 at 19 46 09_4d9ce3f8](https://github.com/Vyshnav31/CarDhundo/assets/91794397/5dfd1378-ef0f-4e8c-af30-bb8ec1413127)
 
-## Technologies Used
+## 💻Technologies Used
 
 - Front-end: HTML, CSS, JavaScript, React
 - Back-end: Node.js, Express.js
 - Database: MongoDB
 - Payment Integration: Stripe
 
-## Installation(you can run it in your local host)
+## 🛠️Installation(you can run it in your local host)
 
 1. Clone the repository: `git clone [repository_url]`
 2. Install dependencies: `npm install`
 3. Set up environment variables for Stripe integration and database connection.
 4. Run the application: `npm start`
 
-## Contributing
+##🤝 Contributing
 
 Contributions are welcome! If you would like to contribute to CarDhundo, please follow these steps:
 
@@ -50,7 +50,7 @@ Contributions are welcome! If you would like to contribute to CarDhundo, please 
 
 This project is licensed under the [MIT License](insert_license_link_here). Feel free to modify and use the code as per your requirements.
 
-## Contact
+## 📧 Contact
 
 If you have any questions or suggestions regarding CarDhundo, please feel free to reach out to us at abhishek.kumar2021d@vitstudent.ac.in
 
