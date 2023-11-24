@@ -24,7 +24,7 @@ backend(https://cardhundo.onrender.com)
 
 ## Technologies Used
 
-- Front-end: HTML, CSS, JavaScript
+- Front-end: HTML, CSS, JavaScript, React
 - Back-end: Node.js, Express.js
 - Database: MongoDB
 - Payment Integration: Stripe
