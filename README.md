@@ -9,7 +9,7 @@ Welcome to CarDhundo, a full-stack car rental website that allows users to easil
 You can access the deployed website at : frontend(https://cardhundo1.onrender.com)
 backend(https://cardhundo.onrender.com)
 
-##🚀 Features
+## 🚀 Features
 
 - User Authentication: Users can create accounts, log in, and manage their profiles.
 - Car Booking: Users can browse available cars, select their desired car, and book it for a specific date.
