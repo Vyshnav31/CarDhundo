@@ -36,7 +36,7 @@ backend(https://cardhundo.onrender.com)
 3. Set up environment variables for Stripe integration and database connection.
 4. Run the application: `npm start`
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! If you would like to contribute to CarDhundo, please follow these steps:
 
