@@ -19,6 +19,7 @@ You can access the deployed website at :
 ![WhatsApp Image 2023-11-23 at 19 46 08_c1bca5f9](https://github.com/Vyshnav31/CarDhundo/assets/91794397/953e9852-dec9-42e0-b893-3a5d35cb21f0)
 ![WhatsApp Image 2023-11-23 at 19 46 09_b3607e8a](https://github.com/Vyshnav31/CarDhundo/assets/91794397/ab21cf23-af01-42c3-8acd-39b2a1fe49a5)
 ![WhatsApp Image 2023-11-23 at 19 46 10_aeccb728](https://github.com/Vyshnav31/CarDhundo/assets/91794397/d4653a98-9192-4587-820d-82892dafa6e5)
+![WhatsApp Image 2023-11-23 at 19 46 09_4d9ce3f8](https://github.com/Vyshnav31/CarDhundo/assets/91794397/5dfd1378-ef0f-4e8c-af30-bb8ec1413127)
 
 ## Technologies Used
 
@@ -27,7 +28,7 @@ You can access the deployed website at :
 - Database: MongoDB
 - Payment Integration: Stripe
 
-## Installation
+## Installation(you can run it in your local host)
 
 1. Clone the repository: `git clone [repository_url]`
 2. Install dependencies: `npm install`
